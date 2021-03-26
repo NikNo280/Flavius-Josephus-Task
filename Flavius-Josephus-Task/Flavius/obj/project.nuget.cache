@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwE7T8nhsD9msOoG7Hnrqr8EN38yZvmig/t0ExqjP+Q6Q2tpOV1pvz5tUkU132gAzyphzSs714tsR96dk69cPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikita\\Documents\\GitHub\\Flavius-Josephus-Task\\Flavius-Josephus-Task\\Flavius\\Flavius.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

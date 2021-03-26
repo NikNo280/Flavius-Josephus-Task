@@ -1,0 +1,9 @@
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\obj\Debug\netcoreapp3.1\Flavius.AssemblyInfoInputs.cache
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\obj\Debug\netcoreapp3.1\Flavius.AssemblyInfo.cs
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\obj\Debug\netcoreapp3.1\Flavius.csproj.CoreCompileInputs.cache
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\bin\Debug\netcoreapp3.1\Flavius.deps.json
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\bin\Debug\netcoreapp3.1\Flavius.dll
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\bin\Debug\netcoreapp3.1\Flavius.pdb
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\obj\Debug\netcoreapp3.1\Flavius.dll
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\obj\Debug\netcoreapp3.1\Flavius.pdb
+C:\Users\nikita\Documents\GitHub\Flavius-Josephus-Task\Flavius-Josephus-Task\Flavius\obj\Debug\netcoreapp3.1\Flavius.csprojAssemblyReference.cache
